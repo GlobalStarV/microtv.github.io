@@ -1,0 +1,1 @@
+alert("Please Refresh When Score Reaches 10");
